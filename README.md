@@ -79,7 +79,7 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 ## 测试截图
 
-![1](https://github.com/Tamshen/Lenovo-Ren7000-2017-Hackintosh/raw/master/_doc/pic.png)]
+![1](https://github.com/Tamshen/Lenovo-Ren7000-2017-Hackintosh/raw/master/_doc/pic.png)
 
 ## 系统镜像下载
 
